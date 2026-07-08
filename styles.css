@@ -4,7 +4,7 @@
 	font-family: 'DM Sans';
 }
 
-:root (
+:root {
 	--purple100: hsl(254, 88%, 90%);
 	--purple500: hsl(256, 67%, 59%);
 
@@ -13,7 +13,7 @@
 
 	--white: hsl(0, 0%, 100%);
 	--black: hsl(0, 0%, 7%);
-)
+}
 
 html {
 	box-sizing: border-box;
