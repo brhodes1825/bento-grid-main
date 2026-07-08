@@ -30,6 +30,7 @@ body {
 }
 
 .grid-container {
+	overflow: hidden;
 	display: grid;
 	grid-template-columns: 12.5rem 12.5rem 12.5rem 12.5rem;
 	grid-template-rows: 12.5rem 12.5rem 12.5rem;
