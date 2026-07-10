@@ -181,8 +181,8 @@ img {
 .grid-container .item:nth-of-type(4) img {
 	margin: 1rem 0;
 	position: absolute;
-	height: 25rem;
 	top: 7.813rem;
+	left: 2rem;
 }
 
 .grid-container .item:nth-of-type(5) {
