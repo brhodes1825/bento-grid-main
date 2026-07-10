@@ -64,7 +64,7 @@ img {
 	margin: 1rem;
 	display: grid;
 	grid-auto-columns: 1fr;
-	grid-auto-rows: 4rem;
+	grid-auto-rows: 3rem;
 	gap: 2rem;
 	grid-template-areas:
 		"box7 box1 box1 box4"
@@ -155,14 +155,19 @@ img {
 	padding: 1rem 1rem 0 1rem;
 	display: flex;
 	flex-direction: column;
-	align-items: center;
-	justify-content: center;
+	justify-content: space-between;
 	text-align: left;
+	position: relative;
 }
 
 .grid-container .item:nth-of-type(3) img {
 	width: 13rem;
-	margin-top: 1rem;
+/*	margin-top: 1rem; */
+	position: absolute;
+	height: 25.625rem;
+	object-fit: cover;
+	object-position: left;
+	top: 7.813rem;
 }
 
 .grid-container .item:nth-of-type(4) {
