@@ -192,7 +192,7 @@ img {
 	grid-area: box5;
 	padding: 1.5rem;
 	display: grid;
-	grid-auto-columns: 1.5fr 1.75fr;
+	grid-template-columns: 1.5fr 1.75fr;
 	gap: .5rem;
 	text-align: left;
 	position: relative;
