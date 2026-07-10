@@ -54,7 +54,7 @@ body {
 
 .grid-container .item:nth-of-type(1),
 .grid-container .item:nth-of-type(5) {
-	background-color: var(--purple-500);
+	background-color: var(--purple500);
 	color: var(--white);
 }
 
@@ -66,17 +66,17 @@ body {
 
 .grid-container .item:nth-of-type(3),
 .grid-container .item:nth-of-type(8) {
-	background-color: var(--yelow-500);
+	background-color: var(--yellow500);
 	color: var(--black);
 }
 
 .grid-container .item:nth-of-type(4) {
-	background-color: var(--purple-100);
+	background-color: var(--purple100);
 	color: var(--black);
 }
 
 .grid-container .item:nth-of-type(7) {
-	background-color: var(--yellow-100);
+	background-color: var(--yellow100);
 	color: var(--black);
 }
 
