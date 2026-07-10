@@ -172,18 +172,16 @@ img {
 	padding: 2rem;
 	display: flex;
 	flex-direction: column;
-	align-items: center;
 	justify-content: space-between;
-	text-align: left;
 	position: relative;
 }
 
 .grid-container .item:nth-of-type(4) img {
 	margin: 1rem 0;
 	position: absolute;
-	height: 13.125rem;
+	height: 18rem;
 	top: 7.813rem;
-	left: 2rem; 
+	right: 3rem; 
 	object-fit: cover;
 	object-position: left;
 }
