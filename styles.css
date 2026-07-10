@@ -47,6 +47,7 @@ body {
 		"box8 box6 box5 box5";
 }
 
-.box1 {
-	background-color: hsl(256, 67%, 59%);
+.grid-container .item {
+	border-radius: .5rem;
+	overflow: hidden;
 }
