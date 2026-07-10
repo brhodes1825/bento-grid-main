@@ -39,22 +39,22 @@ img {
 }
 
 .xlg-text {
-	font-size: 4rem;
+	font-size: 3.5rem;
 	font-weight: 500;
 }
 
 .lg-text {
-	font-size: 2.75rem;
-	font-weight: 500;
-}
-
-.med-text {
 	font-size: 2.35rem;
 	font-weight: 500;
 }
 
+.med-text {
+	font-size: 2rem;
+	font-weight: 500;
+}
+
 .sm-text {
-	font-size: 1.5rem;
+	font-size: 1.25rem;
 	font-weight: 400;
 }
 
