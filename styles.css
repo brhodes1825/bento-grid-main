@@ -59,7 +59,7 @@ img {
 }
 
 .grid-container {
-	max-width: 81.25rem;
+	max-width: 79rem;
 	max-height: 100vh;
 	margin: 1rem;
 	display: grid;
