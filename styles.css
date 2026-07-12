@@ -173,7 +173,7 @@ img {
 
 .grid-container .item:nth-of-type(4) {
 	grid-area: box4;
-	padding: 2rem;
+	padding: 1.5rem 1rem;
 	display: flex;
 	flex-direction: column;
 	justify-content: space-between;
