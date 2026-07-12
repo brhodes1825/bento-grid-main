@@ -172,7 +172,7 @@ img {
 
 .grid-container .item:nth-of-type(4) {
 	grid-area: box4;
-	padding: 1rem;
+	padding: 2rem;
 	display: flex;
 	flex-direction: column;
 	justify-content: space-between;
@@ -190,13 +190,13 @@ img {
 	object-position: left;
 }
 
-.grid-container .item:nth-of-type(4) p:nth-of-type(1) {
+/* .grid-container .item:nth-of-type(4) p:nth-of-type(1) {
 	margin-bottom: 1rem;
 }
 
 .grid-container .item:nth-of-type(4) p:nth-of-type(2) {
 	margin-top: 1rem;
-}
+} */
 
 .grid-container .item:nth-of-type(5) {
 	grid-area: box5;
