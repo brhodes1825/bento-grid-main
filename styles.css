@@ -172,7 +172,7 @@ img {
 
 .grid-container .item:nth-of-type(4) {
 	grid-area: box4;
-	padding: 2rem;
+	padding: .5rem;
 	display: flex;
 	flex-direction: column;
 	justify-content: space-between;
@@ -183,7 +183,7 @@ img {
 .grid-container .item:nth-of-type(4) img {
 /*	margin: 1rem 0; */
 	position: absolute;
-	height: 20rem;
+	height: 19rem;
 	top: 7.813rem;
 	left: 2.5rem; 
 	object-fit: cover;
