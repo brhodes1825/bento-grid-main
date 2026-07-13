@@ -169,6 +169,8 @@ img {
 	position: absolute;
 	top: 8rem;
 	width: 80%;
+	left: 1rem;
+	right: 1rem;
 }
 
 .grid-container .item:nth-of-type(4) {
