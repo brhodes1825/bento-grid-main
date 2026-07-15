@@ -244,9 +244,11 @@ img {
 	margin-bottom: 1.125rem;
 }
 
-/* .grid-container .item:nth-of-type(6) img {
-	/* position: absolute; 
-} */
+ .grid-container .item:nth-of-type(6) img {
+	/* position: absolute; */
+	 width: 80%;
+	 height: auto;
+}
 
 .grid-container .item:nth-of-type(7) {
 	grid-area: box7;
