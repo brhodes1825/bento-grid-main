@@ -220,9 +220,11 @@ img {
 	margin-right: 1rem;
 }
 
-/* .grid-container .item:nth-of-type(5) img {
-	position: absolute;
-}  */
+ .grid-container .item:nth-of-type(5) img {
+	/* position: absolute; */
+	 width: 85%;
+	 height: auto;
+}  
 
 .grid-container .item:nth-of-type(6) {
 	grid-area: box6;
