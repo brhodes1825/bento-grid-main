@@ -269,8 +269,6 @@ img {
 .grid-container .item:nth-of-type(7) img {
 /*	position: absolute; */
 	margin-top: 2rem;
-	width: 85%;
-	height: auto;
 }
 
 .grid-container .item:nth-of-type(8) {
@@ -289,6 +287,8 @@ img {
 	margin-right: 2rem;
 }
 
-/* .grid-container .item:nth-of-type(8) img {
-	position: absolute;
-} */
+ .grid-container .item:nth-of-type(8) img {
+/*	position: absolute; */
+	width: 85%;
+	height: auto;
+} 
