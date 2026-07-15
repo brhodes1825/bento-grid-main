@@ -148,6 +148,7 @@ img {
 
 .grid-container .item:nth-of-type(2) p {
 	margin-top: 1rem;
+	margin-right: 1.rem;
 }
 
 ,grid-container .item:nth-of-type(2) img {
@@ -165,11 +166,15 @@ img {
 	position: relative;
 }
 
+.grid-container .item:nth-of-type(3) p {
+	margin-right: 2rem;
+}
+
 .grid-container .item:nth-of-type(3) img {
 	position: absolute;
-	top: 8rem;
+	top: 8.125rem;
 	width: 80%;
-	left: 1rem;
+	left: 1.5rem;
 	right: 1rem;
 }
 
@@ -235,9 +240,10 @@ img {
 	margin-bottom: 1.5rem;
 }
 
-/* .grid-container .item:nth-of-type(6) img {
-	position: absolute;
-} */
+ .grid-container .item:nth-of-type(6) img {
+	/* position: absolute; */
+	 width: 80%;
+} 
 
 .grid-container .item:nth-of-type(7) {
 	grid-area: box7;
