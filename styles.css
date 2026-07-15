@@ -213,10 +213,10 @@ img {
 	grid-template-columns: 1.5fr 1.75fr;
 	gap: .5rem;
 	text-align: left;
-/*	position: relative; 
+/*	position: relative; */
 }
 
- .grid-container .item:nth-of-type(5) img {
+/* .grid-container .item:nth-of-type(5) img {
 	position: absolute;
 }  */
 
