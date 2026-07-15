@@ -226,7 +226,7 @@ img {
 
 .grid-container .item:nth-of-type(6) {
 	grid-area: box6;
-	padding: 1.5rem 1rem;
+	padding: 1rem;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
@@ -235,12 +235,12 @@ img {
 }
 
 .grid-container .item:nth-of-type(6) p:nth-of-type(1) {
-	text-align: center;
-	margin-bottom: 1.5rem;
+	text-align: left;
+	margin-bottom: 1.125rem;
 }
 
 .grid-container .item:nth-of-type(6) p:nth-of-type(2) {
-	text-align: center;
+	text-align: justify;
 	margin-bottom: 1.125rem;
 }
 
