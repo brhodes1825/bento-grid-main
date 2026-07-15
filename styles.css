@@ -283,7 +283,7 @@ img {
 }
 
 .grid-container .item:nth-of-type(8) p {
-	margin-bottom: 2rem;
+	margin-bottom: 1rem;
 	margin-right: 2rem;
 }
 
@@ -291,4 +291,5 @@ img {
 /*	position: absolute; */
 	width: 85%;
 	height: auto;
+	margin: 1rem;
 } 
