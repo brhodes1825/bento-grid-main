@@ -300,6 +300,7 @@ img {
 
 @media only screen and (max-width: 1000px) {
 	.grid-container {
+		grid-auto-rows: auto;
 		grid-template-areas: 
 			'box1 box1'
 			'box1 box1'
