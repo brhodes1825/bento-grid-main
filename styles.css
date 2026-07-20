@@ -172,7 +172,7 @@ img {
 
 .grid-container .item:nth-of-type(3) img {
 	position: absolute;
-	top: 8.125rem;
+	top: 8rem;
 	width: 80%;
 	left: 1.5rem;
 	right: 1rem;
