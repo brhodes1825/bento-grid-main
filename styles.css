@@ -218,6 +218,8 @@ img {
 
 .grid-container .item:nth-of-type(5) p {
 	margin-right: 4rem;
+	align-items: center;
+	justify-content: center;
 }
 
  .grid-container .item:nth-of-type(5) img {
