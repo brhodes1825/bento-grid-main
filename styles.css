@@ -332,6 +332,8 @@ img {
 	.grid-container .item:nth-of-type(4) img {
 		position: relative;
 
+	}
+
 	.grid-container .item:nth-of-type(5) {
 		display: flex;
 		flex-direction: column;
